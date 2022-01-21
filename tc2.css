@@ -1,0 +1,231 @@
+body {
+  margin: 0px;
+  padding: 0px;
+}
+.head {
+  padding-top: 10px;
+  background-color: #6bbca8;
+  display: flex;
+  justify-content: space-around;
+  position: sticky;
+  top: 0;
+}
+.img {
+  width: 80px;
+  height: 80px;
+  margin-left: 100%;
+  margin-right: 100%;
+}
+
+.title {
+  font-family: "Noto Serif", serif;
+  margin-top: 5px;
+
+  margin-right: 0%;
+  font-size: 35px;
+  text-transform: uppercase;
+  color: black;
+}
+
+.tennis {
+  color: ;
+  font-family: "Noto Serif", serif;
+  margin-top: 26px;
+  cursor: pointer;
+  font-size: 15px;
+  text-transform: uppercase;
+  color: black;
+  display: flex;
+  justify-content: space-between;
+}
+.foot {
+  font-family: "Noto Serif", serif;
+  margin-top: 26px;
+  cursor: pointer;
+  font-size: 15px;
+  text-transform: uppercase;
+  color: black;
+}
+.basket {
+  font-family: "Noto Serif", serif;
+  margin-top: 26px;
+  cursor: pointer;
+  font-size: 15px;
+  text-transform: uppercase;
+  color: black;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+img {
+  height: 80px;
+  width: 80px;
+}
+.ball {
+  margin-left: 2%;
+  margin-right: 2%;
+  display: flex;
+  justify-content: space-between;
+}
+.main {
+  margin-right: 5%;
+  margin-left: 5%;
+}
+.containar1 {
+  margin-top: 5%;
+  border-width: 0.2px;
+}
+
+.title1 {
+  color: #6bbca8;
+  font-family: "Noto Serif", serif;
+  margin-top: 5px;
+  margin-bottom: 1%;
+  margin-left: 0.75%;
+  font-size: 35px;
+  text-transform: uppercase;
+}
+.racket {
+  margin-left: 2%;
+  margin-right: 2%;
+  display: flex;
+  justify-content: space-between;
+}
+button {
+  font-family: "Noto Serif", serif;
+  border-radius: 5px;
+  background-color: #008cba;
+  border-width: 0.2px;
+  border: black;
+  color: white;
+  padding: 10px 22px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin-left: 5%;
+  margin-bottom: 2%;
+  cursor: pointer;
+  margin-top: 2%;
+}
+#star {
+  margin-top: -15px;
+  margin-left: 41%;
+  margin-bottom: 2%;
+  height: 20px;
+  width: 20px;
+}
+#img {
+  margin-top: 2%;
+  margin-left: 23%;
+}
+
+.ball1 {
+  margin-right: 1%;
+  margin-left: 1%;
+  border: #6bbca8;
+  border-radius: 4px;
+  border-style: solid;
+  border-width: 0.2px;
+}
+.ball2 {
+  margin-right: 1%;
+  margin-left: 1%;
+  border: #6bbca8;
+  border-radius: 4px;
+  border-style: solid;
+  border-width: 0.2px;
+}
+.ball3 {
+  margin-right: 1%;
+  margin-left: 1%;
+  border: #6bbca8;
+  border-radius: 4px;
+  border-style: solid;
+  border-width: 0.2px;
+}
+.ball4 {
+  margin-right: 1%;
+  margin-left: 1%;
+  margin-right: 1%;
+  margin-left: 1%;
+  border: #6bbca8;
+  border-radius: 4px;
+  border-style: solid;
+  border-width: 0.2px;
+}
+.ball5 {
+  margin-right: 1%;
+  margin-left: 1%;
+  border: #6bbca8;
+  border-radius: 4px;
+  border-style: solid;
+  border-width: 0.2px;
+}
+.ball6 {
+  margin-right: 1%;
+  margin-left: 1%;
+  border: #6bbca8;
+  border-radius: 4px;
+  border-style: solid;
+  border-width: 0.2px;
+}
+.name {
+  font-size: 20px;
+  text-transform: uppercase;
+  /*margin-top: -1%;
+    margin-left: 35%;*/
+  text-align: center;
+}
+.prix {
+  margin-left: 35%;
+  font-size: 20px;
+}
+img {
+  margin-top: 2%;
+  margin-right: 10%;
+}
+.containar2 {
+  margin-top: 5%;
+  border-width: 0.2px;
+}
+.footer {
+  background-color: #6bbca8;
+  color: black;
+  font-family: "Noto Serif", serif;
+  display: flex;
+  justify-content: space-between;
+  height: 400px;
+}
+img {
+  width: 80px;
+  height: 80px;
+}
+.img22 {
+  width: 40px;
+  height: 40px;
+}
+.f1 {
+  margin-top: 5%;
+  margin-left: 2%;
+}
+.p2 {
+  padding-top: 20%;
+}
+.f2 {
+  display: flexbox;
+  margin-top: 10%;
+}
+.f3 {
+  display: flexbox;
+
+  margin-top: 5%;
+  margin-right: 2%;
+}
+.p1 {
+  text-transform: uppercase;
+}
+.ali {
+  height: 200px;
+}
